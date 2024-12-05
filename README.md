@@ -12,3 +12,5 @@
 6. Dado el centro y el radio de un círculo, determinar si un punto de R2 pertenece o no al interior del círculo.
 7. Dadas tres longitudes positivas, determinar si con esas longitudes se puede construir un triángulo.
 8. Escriba un programa que reciba el nombre en minúsculas de un país de America y retorne la ciudad capital, si el país no pertenece al continente debe arrojar país no identificado (Utilice match-case).
+
+### Revisar archivo adjunto.
