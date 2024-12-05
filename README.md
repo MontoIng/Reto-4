@@ -1,6 +1,6 @@
-# Reto-4
-Se determina en clase la realización de 8 ejercicios haciendo usa de notebook (python). 
-Los cuales son:
+# Reto (4)
+### Se determina en clase la realización de 8 ejercicios haciendo usa de notebook (python). 
+### Los cuales son:
 1. Dado un número entero, determinar si ese número corresponde al código ASCII de una vocal minúscula.
 2. Dada una cadena de longitud 1, determine si el código ASCII de primera letra de la cadena es par o no.
 3. Dado un carácter, construya un programa en Python para determinar si el carácter es un dígito o no.
